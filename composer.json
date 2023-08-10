@@ -1,0 +1,19 @@
+{
+    "name": "anakinali/contact",
+    "description": "This will send email tutorial",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AnakinAli\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anakin Ali",
+            "email": "anakinali.personal@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
